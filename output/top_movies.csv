@@ -1,0 +1,11 @@
+title,primary_genre,num_ratings,avg_rating,std_rating
+Star Wars (1977),Sci-Fi,583,4.36,0.83
+Contact (1997),Sci-Fi,509,3.8,0.83
+Fargo (1996),Crime,508,4.16,0.83
+Return of the Jedi (1983),Sci-Fi,507,3.97,0.83
+Liar Liar (1997),Comedy,485,3.16,0.83
+"English Patient, The (1996)",Drama,481,3.66,0.83
+Scream (1996),Horror,478,3.44,0.83
+Toy Story (1995),Animation,452,3.88,0.83
+Air Force One (1997),Action,431,3.67,0.83
+Independence Day (1996),Action,429,3.44,0.83

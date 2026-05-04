@@ -1,0 +1,2 @@
+RMSE,MAE,R2,num_users,num_movies,num_ratings,train_ratings,test_ratings,rank,maxIter,regParam,training_time_sec
+0.9412,0.7423,0.2841,943,1682,100000,80019,19981,20,15,0.1,24.7
